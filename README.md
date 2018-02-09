@@ -47,7 +47,6 @@ CREATE VIEW path_slug_count AS
 SELECT COUNT(path), SUBSTRING(log.path, 10, LENGTH(log.path)) AS path_slug
 FROM log GROUP BY path_slug
 ORDER BY COUNT(path) DESC;
-
+```
 
 ## FUN
-```
