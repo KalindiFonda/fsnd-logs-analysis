@@ -2,26 +2,28 @@
                    Starting analysis...
 
 
-Let's see which article is the hottest:
+Let's see which articles are the hottest:
 
-This article: 'Candidate is jerk, alleges rival' got 338647 views
+This article: 'Candidate is jerk, alleges rival' got 338,647 views!
+This article: 'Bears love berries, alleges bear' got 253,801 views!
+This article: 'Bad things gone, say good people' got 170,098 views!
 
 Whohohoa!
 
 
 Let's see what our writers are doing:
 
-Ursula La Multa wrote articles that got 507594 views!
-Rudolf von Treppenwitz wrote articles that got 423457 views!
-Anonymous Contributor wrote articles that got 170098 views!
-Markoff Chaney wrote articles that got 84557 views!
+Ursula La Multa wrote articles that got 507,594 views!
+Rudolf von Treppenwitz wrote articles that got 423,457 views!
+Anonymous Contributor wrote articles that got 170,098 views!
+Markoff Chaney wrote articles that got 84,557 views!
 
 Prolific writers!
 
 
 Let's see how our pages are doing:
 
-On this date 2016-07-17 , the error rate was: 2.32
+On this date: 2016-07-17 the error rate was: 2.26 %!
 
 This is it for bad days.
 
@@ -29,5 +31,4 @@ This is it for bad days.
 ------------------------------------
 
                    Analysis completed
-
 
