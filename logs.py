@@ -37,7 +37,7 @@ def top_error():
     print "\n\nLet's see how our pages are doing:\n"
     for day_date, error in errors:
         print "On this date: {} " \
-        "the error rate was: {:.2f} %!".format(day_date, error)
+            "the error rate was: {:.2f} %!".format(day_date, error)
     print "\nThis is it for bad days."
 
 
